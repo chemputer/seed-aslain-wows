@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+libtorrent-python==2.0.3
+requests==2.26.0
+schedule==1.1.0

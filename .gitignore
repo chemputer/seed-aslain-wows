@@ -1,0 +1,6 @@
+config.py
+rss-env/
+*.torrent
+*.exe
+main.py
+previous_link.txt
