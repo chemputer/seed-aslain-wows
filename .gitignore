@@ -2,5 +2,10 @@ config.py
 rss-env/
 *.torrent
 *.exe
+*.resume
 main.py
 previous_link.txt
+*/.mypy_cache/
+/not\ useful/*
+*.sqlite
+**sqlite.py
