@@ -1,4 +1,4 @@
 beautifulsoup4 == 4.9.3
 libtorrent     == 2.0.9
-requests       == 2.26.0
+requests       == 2.31.0
 schedule       == 1.1.0
